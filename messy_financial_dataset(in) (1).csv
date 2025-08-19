@@ -1,0 +1,11 @@
+Date,CustomerName,Transaction_ID,Amount,Category,Payment_Method
+1/5/2024,John Smith,001,500,Food,Cash
+1/7/2024,Mary  Jones,002,"1,200.50",Transport,Card
+1/8/2024,David Miller,003,800,Food,Cash
+1/9/2024,  Sarah Lee,004,-200,Refund,Card
+1/11/2024,Robert Brown,005,1500,Utilities,Card
+11/1/2024,Emily Davis,006,abc,Food,Cash
+1/12/2024,James Wilson,007,300.75,Transport,Card
+1/12/2024,Mary Jones,002,"1,200.50",Transport,Card
+1/13/2024,0,008,450,Food,Cash
+1/14/2024,John Smith,009, 900,Utilities,Cash
